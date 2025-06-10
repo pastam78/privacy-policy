@@ -1,5 +1,3 @@
-# privacy-policy
-
 # Privacy Policy
 
 Questa applicazione raccoglie dati minimi e li utilizza esclusivamente per fornire le funzionalità dell'app.
