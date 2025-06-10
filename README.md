@@ -27,11 +27,11 @@ I dati sono salvati su server Firebase (Google) e/o localmente sul dispositivo.
 
 ## Diritti dell’Utente
 
-L’utente può richiedere in qualsiasi momento la cancellazione dei propri dati scrivendo a: ing.tammaropasquale@gmail.com
-.
+L’utente può richiedere in qualsiasi momento la cancellazione dei propri dati scrivendo a: **ing.tammaropasquale@gmail.com**
 
 ## Contatti
 
-Per qualsiasi domanda: ing.tammaropasquale@gmail.com
+Per qualsiasi domanda: **ing.tammaropasquale@gmail.com**
 
-Ultimo aggiornamento: 10 Giugno 2025
+**Ultimo aggiornamento**: 10 Giugno 2025
+
