@@ -29,6 +29,18 @@ I dati sono salvati su server Firebase (Google) e/o localmente sul dispositivo.
 
 L’utente può richiedere in qualsiasi momento la cancellazione dei propri dati scrivendo a: **ing.tammaropasquale@gmail.com**
 
+## Eliminazione dell'Account
+
+È possibile eliminare definitivamente l’account e i dati associati direttamente dall’app:
+
+1. Accedi all’app con il tuo account.
+2. Vai alla sezione "Pronostica".
+3. Tocca l’icona in alto a destra per "Cancellazione account".
+4. Conferma l’eliminazione.
+
+Una volta confermata, tutti i dati associati all’account verranno cancellati in modo permanente.
+Se non riesci ad accedere all’app, puoi contattarci via email per richiedere la cancellazione manuale.
+
 ## Contatti
 
 Per qualsiasi domanda: **ing.tammaropasquale@gmail.com**
